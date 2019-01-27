@@ -1,0 +1,34 @@
+{
+    "addItemPopup": {
+        "header": "Добавить компанию",
+        "formLabels": {
+            "name": "Наименование:",
+            "address": "Адрес:",
+            "PSRN": "ОГРН:",
+            "ITN": "ИНН*:",
+            "registerDate": "Дата регистрации:"
+        },
+        "buttons": {
+            "formSubmit": "Добавить"
+        }
+    },
+    "mainTable": {
+        "tableHeaders":  {
+            "name": "Наименование",
+            "address": "Адрес",
+            "PSRN": "ОГРН",
+            "ITN": "ИНН",
+            "registerDate": "Дата регистрации"
+        }
+    },
+    "tableItem": {
+        "infoMessages": {
+            "default": "Запросить информацию",
+            "pending": "Идет получение информации",
+            "success": "Информация получена успешно",
+            "errorResponce": "Ошибка. Код ответа: {code}",
+            "errorOther": "Что-то пошло не так: {err}",
+            "errorEmpty": "Нет информации о компании, возможно неверный ИНН"
+        }
+    }
+}
