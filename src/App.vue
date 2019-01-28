@@ -13,10 +13,5 @@
             MainTable
         }
     }
-</script>
 
-<style>
-    #app {
-        margin: 20px;
-    }
-</style>
+</script>
